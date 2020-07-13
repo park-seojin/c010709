@@ -6,11 +6,11 @@
 /*   By: seojpark <qkrtjwls8546@naver.com>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/09 15:18:13 by seojpark          #+#    #+#             */
-/*   Updated: 2020/07/09 15:23:04 by seojpark         ###   ########.fr       */
+/*   Updated: 2020/07/13 13:32:18 by seojpark         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <untistd.h>
+#include <unistd.h>
 
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {
